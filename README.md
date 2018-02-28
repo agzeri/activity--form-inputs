@@ -27,3 +27,10 @@
 + If I write "Pedro" as First name and "Páramo" as last name, I should see an alert with the content "PP".
 + If I write "Lenny" as First name and "Kravitz" as last name, I should see an alert with the content "LK".
 + If I write "Robbie" as First name and "Williams" as last name, I should see an alert with the content "RW".
+
+
+# Second Exercise
+
+If they want to practice more, we worked on an exercise coding the Twitter Login.
+
+*Indications: Validate inputs and add the necessary changes in code to make it work.*
